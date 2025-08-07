@@ -1,0 +1,6 @@
+Eggs,0.5,OTHER
+Bread,5.0,DAIRY
+Milk,10.0,DAIRY
+Apple,5.0,FRUIT
+Corn,3.0,VEGETABLE
+Orange,4.0,FRUIT

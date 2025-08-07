@@ -1,0 +1,20 @@
+Wet Food:
+Lettuce,10
+Tomatoes,15
+Eggs,20
+Chicken,50
+Yogurt,25
+Salmon,20
+Apple,20
+Steak,10
+Cheese,25
+
+Dry Food:
+Cookies,30
+Bread,15
+Pasta,15
+Flour,35
+Sugar,40
+Peanuts,20
+Black beans,15
+Chips,50

@@ -1,0 +1,4 @@
+Zan,20,Male
+Matt,21,Male
+John,18,Male
+Amelia,20,Female
